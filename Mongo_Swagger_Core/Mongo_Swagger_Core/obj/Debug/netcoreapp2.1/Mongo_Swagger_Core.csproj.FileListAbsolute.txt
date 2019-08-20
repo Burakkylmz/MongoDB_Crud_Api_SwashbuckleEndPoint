@@ -1,0 +1,14 @@
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\bin\Debug\netcoreapp2.1\Mongo_Swagger_Core.deps.json
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\bin\Debug\netcoreapp2.1\Mongo_Swagger_Core.runtimeconfig.json
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\bin\Debug\netcoreapp2.1\Mongo_Swagger_Core.runtimeconfig.dev.json
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\bin\Debug\netcoreapp2.1\Mongo_Swagger_Core.dll
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.csproj.CoreCompileInputs.cache
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.RazorAssemblyInfo.cache
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.RazorAssemblyInfo.cs
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.AssemblyInfoInputs.cache
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.AssemblyInfo.cs
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.RazorTargetAssemblyInfo.cache
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.csprojAssemblyReference.cache
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\bin\Debug\netcoreapp2.1\Mongo_Swagger_Core.pdb
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.dll
+C:\VS Projects\Mongo_Swagger_Core\Mongo_Swagger_Core\obj\Debug\netcoreapp2.1\Mongo_Swagger_Core.pdb
